@@ -144,6 +144,8 @@ For each exposed endpoint:
   - behavioural_patterns: {pattern_id, building_id, pattern_type, summary, period}
   - recommendations: {recommendation_id, building_id, related_indicator_id, related_profile_id, message, priority, created_at}
   - analytics_outputs: {output_id, building_id, service_type, summary, timestamp}
+ 
+![Model](schema.png)
 
 ## **Data Requirements**
 
