@@ -119,6 +119,8 @@ For each exposed endpoint:
 - **Advisory feedback view:** Highlights personalised suggestions, notifications and engagement-oriented messages.
 - **Pilot analytics view:** Summarises building-level patterns, performance indicators and service outcomes for technical partners.
 
+![Model](UI.png)
+
 ## **Data Model**
 
 - **Entities and relationships:**
